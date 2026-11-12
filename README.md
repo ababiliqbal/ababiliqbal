@@ -30,14 +30,11 @@
 
 ### About Me
 
-I am an Informatics & Computer Engineering Education undergraduate at **Universitas Negeri Semarang (GPA 3.83/4.00)** focusing on **Full-Stack Web Development** and **Applied Machine Learning**. I specialize in architecting end-to-end web systems—from responsive frontend interfaces with **Next.js** to high-performance backend services using **Laravel** and **FastAPI**.
+Halo! 👋 Perkenalkan, saya **Muhammad Iqbal Ababil**, seorang **Full-Stack Web Developer** yang juga menaruh minat besar di bidang **Machine Learning & AI**.
 
-- **Current Focus:** Developing full-stack web applications integrated with Large Language Models (LLMs) and automated CI/CD pipelines.
-- **Featured Work:** [Amba Shop (Next.js + FastAPI E-Commerce)](https://github.com/ababiliqbal/e-commerce-nextjs-fastapi), [Memory Guardian AI (Next.js + Gemini API)](https://github.com/ababiliqbal/memory-guardian-ai), and [Fake News Detector (Python + NLP)](https://github.com/ababiliqbal/fake-news-detector).
-- **Achievement:** 2nd Place Winner in LKS Web Technologies (Semarang City Level, 2024).
-- **Portfolio Showcase:** [portfolio-iqbal-ababil.vercel.app](https://portfolio-iqbal-ababil.vercel.app)
+Saya sangat menikmati proses merancang dan membangun aplikasi web modern—mulai dari antarmuka _frontend_ yang interaktif menggunakan Next.js/React hingga arsitektur _backend_ yang tangguh san solid menggunakan Laravel/FastAPI. Saat ini, fokus utama saya adalah mengeksplorasi penggabungan teknologi web dengan kapabilitas kecerdasan buatan (seperti LLM) untuk menciptakan solusi digital yang tidak hanya cepat dan _scalable_, tetapi juga cerdas dalam memecahkan masalah di dunia nyata.
 
----
+Selalu antusias untuk mempelajari tumpukan teknologi (_tech stack_) baru, memecahkan tantangan logika, dan menulis baris kode yang bersih!
 
 <!-- 3. TECH STACK BADGES -->
 
@@ -82,8 +79,8 @@ I am an Informatics & Computer Engineering Education undergraduate at **Universi
 ### GitHub Analytics
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ababiliqbal&show_icons=true&bg_color=020617&title_color=6366f1&text_color=cbd5e1&icon_color=818cf8&border_color=1e293b&hide_border=false" alt="Iqbal's GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ababiliqbal&layout=compact&langs_count=6&bg_color=020617&title_color=6366f1&text_color=cbd5e1&border_color=1e293b&hide_border=false" alt="Top Languages" />
+  <img height="165em" src="https://github-stats-extended.vercel.app/api?username=ababiliqbal&show_icons=true&bg_color=020617&title_color=6366f1&text_color=cbd5e1&icon_color=818cf8&border_color=1e293b&hide_border=false" alt="Iqbal's GitHub Stats" />
+  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ababiliqbal&layout=compact&langs_count=6&bg_color=020617&title_color=6366f1&text_color=cbd5e1&border_color=1e293b&hide_border=false" alt="Top Languages" />
 </div>
 
 <div align="center">
