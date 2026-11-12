@@ -1,25 +1,25 @@
 <div align="center">
 
   <!-- 1. HEADER ELEGAN (Midnight Aurora Theme) -->
-  <a href="https://portfolio-iqbal-ababil.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=800&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=Muhammad+Iqbal+Ababil;Full-Stack+Web+Developer;AI+%26+Machine+Learning+Enthusiast" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=800&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=Muhammad+Iqbal+Ababil;Full-Stack+Web+Developer;AI+%26+Machine+Learning+Enthusiast" alt="Typing SVG" />
 
   <p align="center">
     Building fast, scalable, and intelligent web applications with modern architectures.
   </p>
 
-  <!-- Tautan Kontak & Portofolio -->
+  <!-- Tautan Kontak (Instagram & Email) -->
   <p align="center">
-    <a href="https://portfolio-iqbal-ababil.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-    </a>
-    <a href="https://linkedin.com/in/muhammad-iqbal-ababil" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <a href="https://instagram.com/ababiliqbalmuhammad" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
     <a href="mailto:ababiliqbalmuhammad@gmail.com">
       <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
+  </p>
+
+  <!-- Animasi Visual (Coding Workstation) -->
+  <p align="center">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="460px" alt="Coding Animation" />
   </p>
 
 </div>
@@ -65,10 +65,12 @@ Selalu antusias untuk mempelajari tumpukan teknologi (_tech stack_) baru, memeca
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
