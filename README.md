@@ -7,8 +7,11 @@
     Building fast, scalable, and intelligent web applications with modern architectures.
   </p>
 
-  <!-- Tautan Kontak (Instagram & Email) -->
+  <!-- Tautan Portfolio & Kontak -->
   <p align="center">
+    <a href="https://portfolio-iqbal-ababil.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
     <a href="https://instagram.com/ababiliqbalmuhammad" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
